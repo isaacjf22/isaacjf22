@@ -1,4 +1,4 @@
-## Opa! Eu sou Isaac Ferreira 😎
+## Olá! Eu sou Isaac Ferreira :)
 - 🏫 Estudante de Engenharia de Software na Universidade de Brasilia (UnB)
 - 💻 Estudando C
 
