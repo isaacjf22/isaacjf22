@@ -5,7 +5,7 @@
 
 ###  Sobre mim
 
-Estou construindo minha base na Engenharia. Atualmente focado na **Linguagem C**.
+Estou construindo minha base na Engenharia. Após consolidar meus conhecimentos em **Linguagem C** e lógica de programação, agora estou expandindo meus estudos para **C#** e **Orientação a Objetos**.
 
 ---
 
@@ -13,6 +13,8 @@ Estou construindo minha base na Engenharia. Atualmente focado na **Linguagem C**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="20" />
@@ -49,6 +51,6 @@ Estou construindo minha base na Engenharia. Atualmente focado na **Linguagem C**
 ### 💻 Meus Projetos
 
 -  [Blackjack - Projeto Final APC](https://github.com/isaacjf22/blackjack-projeto-final-apc-)
-  <br> Meu primeiro projeto usando somente com a linguagem C.
+  <br> Meu primeiro projeto usando somente a linguagem C.
 - [Health Jf em C](https://github.com/isaacjf22/SaudeJf_Sistema)
-  <br> Sistema hospitalar feito somente com a linguagem C. 
+  <br> Sistema hospitalar feito somente com a linguagem C.
