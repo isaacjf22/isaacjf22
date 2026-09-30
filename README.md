@@ -1,70 +1,54 @@
-<h1 align="center">Olá! 👋 Tudo bem? Eu sou o Isaac!</h1>
-<h3 align="center">Estudante de Engenharia de Software na UnB</h3>
+<!-- Banner: troque pelo seu próprio em assets/banner.png se quiser -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Isaac&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%E2%80%A2%20UnB&descAlignY=58&descSize=20" width="100%" alt="Banner Isaac"/>
 
-## Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-3A5A78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ferreira-97ba8a35a/)
+[![Gmail](https://img.shields.io/badge/EMAIL-3A5A78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacjf321@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-3A5A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacjf22/)
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduando Engenharia de Software na Universidade de Brasília.
-- 🌱 Aprendendo mais sobre Orientação à Objetos(OO), C# e Python.
+---
 
-## Minhas Skills
+### Sobre Mim
 
+<img src="https://github.com/isaacjf22.png?size=200" align="right" width="150" alt="Avatar Isaac"/>
 
+Estudante de Engenharia de Software na **UnB**.
 
-<div align="center">
+Estou construindo minha base em **C#**, **C** e **Python**, com foco em **Orientação a Objetos** e em transformar teoria em projetos práticos.
 
-  **Aplicações e dados**
-  
-  <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white" alt="Unity"/>
-</div>
+Gosto de explorar novas tecnologias e desenvolver soluções de software, sempre testando ideias e ferramentas diferentes pelo caminho.
 
-<div align="center">
+---
 
-**DevOps**
+### Tecnologias
 
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
-<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,c,python,unity" alt="Linguagens e engines"/>
+  &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,rider,trello" alt="Ferramentas"/>
+</p>
 
-**Ferramentas de desenvolvimento**
+---
 
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000" alt="Rider"/>
-<img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello"/>
+### Projetos
 
-</div>
+| Projeto | Descrição | Tecnologia |
+| :-- | :-- | :--: |
+| 🎮 [**ImpostorIA**](https://github.com/isaacjf22/ImpostorIA) | Jogo do Impostor com inteligência artificial rodando no terminal | C# |
+| 🏥 [**Health Jf em C**](https://github.com/isaacjf22/SaudeJf_Sistema) | Sistema hospitalar feito somente com a linguagem C | C |
+| 🃏 [**Blackjack - Projeto Final APC**](https://github.com/isaacjf22/blackjack-projeto-final-apc-) | Meu primeiro projeto usando somente a linguagem C | C |
 
-## Meus Projetos
--  [Blackjack - Projeto Final APC](https://github.com/isaacjf22/blackjack-projeto-final-apc-)
-  <br> Meu primeiro projeto usando somente a linguagem C.
-- [Health Jf em C](https://github.com/isaacjf22/SaudeJf_Sistema)
-  <br> Sistema hospitalar feito somente com a linguagem C.
-- [ImpostorIA](https://github.com/isaacjf22/ImpostorIA)
-  <br> Jogo do Impostor com inteligência artificial rodando no terminal, desenvolvido em C#.
+### Estatísticas
 
-## Minhas Estatísticas
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaacjf22&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjf22&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
 
-<br/>
+---
 
-<a href="https://github.com/isaacjf22" title="Perfil do Isaacjf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacjf22&theme=dracula&show_icons=true" />
-</a>
+<!-- ✏️ Coloque aqui uma frase de que você goste -->
+*"O sistema caiu para cima..."*
 
-## Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/isaac-ferreira-97ba8a35a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/isaacjf22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:isaacjf321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-![](https://komarev.com/ghpvc/?username=isaacjf22&color=006bed)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isaacjf22&color=3A5A78&style=flat-square&label=Visitas" alt="Visitas"/>
+</p>
