@@ -9,7 +9,7 @@
 
 ### Sobre Mim
 
-<img src="https://github.com/isaacjf22.png?size=200" align="right" width="150" alt="Avatar Isaac"/>
+<img src="assets/perfil.jpeg" align="right" width="150" alt="Avatar Isaac"/>
 
 Estudante de Engenharia de Software na **UnB**.
 
