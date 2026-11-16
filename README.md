@@ -1,4 +1,3 @@
-<!-- Banner: troque pelo seu próprio em assets/banner.png se quiser -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Isaac&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%E2%80%A2%20UnB&descAlignY=58&descSize=20" width="100%" alt="Banner Isaac"/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-3A5A78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ferreira-97ba8a35a/)
@@ -13,18 +12,18 @@
 
 Estudante de Engenharia de Software na **UnB**.
 
-Estou construindo minha base em **C#**, **C** e **Python**, com foco em **Orientação a Objetos** e em transformar teoria em projetos práticos.
+Construo minha base em **C#**, **C** e **Python**, com foco em **Orientação a Objetos**, e recentemente em **banco de dados** com **PostgreSQL**.
 
-Gosto de explorar novas tecnologias e desenvolver soluções de software, sempre testando ideias e ferramentas diferentes pelo caminho.
+Gosto de transformar teoria em projetos práticos, testando ideias e ferramentas diferentes pelo caminho.
 
 ---
 
 ### Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,c,python,unity" alt="Linguagens e engines"/>
+  <img src="https://skillicons.dev/icons?i=cs,c,python,postgres,qt" alt="Linguagens e tecnologias"/>
   &nbsp;|&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,rider,trello" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,rider" alt="Ferramentas"/>
 </p>
 
 ---
@@ -33,9 +32,12 @@ Gosto de explorar novas tecnologias e desenvolver soluções de software, sempre
 
 | Projeto | Descrição | Tecnologia |
 | :-- | :-- | :--: |
+| 🏨 [**Controle de Hospedagem JF**](https://github.com/isaacjf22/controle-hospedagem-jf) | Sistema de hotel desktop com interface gráfica, banco de dados e arquitetura ECB + DAO | Python · PostgreSQL |
 | 🎮 [**ImpostorIA**](https://github.com/isaacjf22/ImpostorIA) | Jogo do Impostor com inteligência artificial rodando no terminal | C# |
 | 🏥 [**Health Jf em C**](https://github.com/isaacjf22/SaudeJf_Sistema) | Sistema hospitalar feito somente com a linguagem C | C |
 | 🃏 [**Blackjack - Projeto Final APC**](https://github.com/isaacjf22/blackjack-projeto-final-apc-) | Meu primeiro projeto usando somente a linguagem C | C |
+
+---
 
 ### Estatísticas
 
@@ -46,7 +48,6 @@ Gosto de explorar novas tecnologias e desenvolver soluções de software, sempre
 
 ---
 
-<!-- ✏️ Coloque aqui uma frase de que você goste -->
 *"O sistema caiu para cima..."*
 
 <p align="center">
